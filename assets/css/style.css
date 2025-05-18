@@ -52,11 +52,11 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("assets/images/bg-site.jpg");
+  background-image: url("/assets/images/bg-site.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.3;
+  opacity: 75%;
   z-index: -1;
 }
 
